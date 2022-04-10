@@ -5,3 +5,8 @@
 
 ## Visualstudio Code
 Set default termminal:https://neutrondev.com/vs-code-integrate-git-bash-default-terminal/
+
+## Thinking like a programmer
+1. Methodical thinking - more orderly thinking
+2. Break problems down - decomposition
+3. Think algorithmically
