@@ -19,3 +19,6 @@ Set default termminal:https://neutrondev.com/vs-code-integrate-git-bash-default-
 5. Work yourway up from the bottom until the problem is solved
 
 https://www.youtube.com/watch?v=x77-gT8bWLo
+
+
+https://www.youtube.com/watch?v=UFc-RPbq8kg
