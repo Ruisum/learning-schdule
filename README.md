@@ -136,7 +136,7 @@ Enhances reputation and networking skills
 
  
 
-Presentation do's
+**Presentation do's**
 
 Prepare
 
@@ -158,7 +158,7 @@ Keep text on slides to a minimum - people talk fast when nervous, short sentence
 
  
 
-Presentations don't
+**Presentations don't**
 
 Don't be afraid to go off-piste
 
@@ -180,7 +180,7 @@ When using images, don't clutter the page, make any text easy to read not in sev
 
  
 
-The introductions
+**The introductions**
 
 Set the scene at the start
 
@@ -194,7 +194,7 @@ Nailing the intro boosted your confidence
 
  
 
-Delivery
+**Delivery**
 
 Confidence
 
@@ -204,7 +204,7 @@ Tone
 
  
 
-Nervousness
+**Nervousness**
 
 A slight degree of nervousness is positive
 
@@ -216,7 +216,7 @@ Anticipate what's causing nerves
 
  
 
-Virtual presenting
+**Virtual presenting**
 
 Look into the camera
 
@@ -228,7 +228,7 @@ If appropriate use the interactive tools
 
  
 
-Key 4 tips
+**Key 4 tips**
 
 Be confident - nail the introduction
 
