@@ -410,3 +410,25 @@ _Prevention_
  
 
 When using a third party library use 'integrity' and 'crossorigin' attributes on the script tag
+
+
+**Monitoring**
+
+**Passive monitor**
+
+Organic trafic monitoring
+
+Looking at errors on dashboards
+
+Alerts if a lot of errors occur withint a specific timeframe
+
+Daily error reports - teams channel
+
+
+**Active monitoring**
+
+Exercising behaviour and reporting on results
+
+Lists of APIs/Endpoints and expected status code /headers / response bodies
+
+Generating a report (teams channel) - journey, endpoint, status (red/green), response time, …
